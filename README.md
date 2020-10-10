@@ -13,10 +13,10 @@ Currently, I am an undergraduate student majoring in Computer.<br>
   - 😉 Motto: **Sharing is Caring**
   
  # Tools:
-  <img height="20" title="C-Programming" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2">
-  <img height="20" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
-  <img height="20" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-  <img height="20" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+  <code><img height="20" title="C-Programming" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2"></code>
+  <code><img height="20" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
+  <code><img height="20" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+  <code><img height="20" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bibekdhkl.bibekdhkl)
  
