@@ -1,4 +1,4 @@
-### Namaste there 👋
+#Namaste there 👋
 
 It's me Bibek Dhakal,
 From country of Himalayas.
@@ -12,7 +12,7 @@ Currently, I am an undergraduate student majoring in Computer.<br>
   - ⚡ Fun fact: You have to make everything fun.
   - 😉 Motto: **Sharing is Caring**
   
- # Tools:
+ ## Tools:
   <code><img height="20" title="C-Programming" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2"></code>
   <code><img height="20" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
   <code><img height="20" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
