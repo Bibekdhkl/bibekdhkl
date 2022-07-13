@@ -5,12 +5,12 @@ From country of Himalayas.
 
 Currently, I am an undergraduate student majoring in Computer.<br>
 
-  - 🌱 I’m currently learning **C++ and Web Development**
-  - 🤔 I’m looking for help with web design and competitive programming.
+  - 🌱 I’m currently doing **CP and HTML/CSS/JS**
+  - 🤔 I’m looking forward to talk about carrer, entrepreneurship and tech stuffs.
   - 💬 Ask me about : Not a Pro but happy to share my knowledge and ideas regarding Web Development as per my understanding. 
   - 📫 I'm available [Here](https://twitter.com/bibekdhkl)
-  - ⚡ Fun fact: You have to make everything fun.
-  - 😉 Motto: **Sharing is Caring**
+  - ⚡ Fun fact: "You can be either slave of your mind or master of your mind, the choice is all upto you"
+  - 😉 Motto: **Share without expecting nothing**
   
  ## Tools:
   <code><img height="20" title="C-Programming" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2"></code>
