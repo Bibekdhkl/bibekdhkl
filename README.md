@@ -5,7 +5,7 @@ From country of Himalayas.
 
 Currently, I am an undergraduate student majoring in Computer.<br>
 
-  - 🌱 I’m currently doing **CP and HTML/CSS/JS**
+  - 🌱 I’m currently learning **React and Frontend**
   - 🤔 I’m looking forward to talk about carrer, entrepreneurship and tech stuffs.
   - 💬 Ask me about : Not a Pro but happy to share my knowledge and ideas regarding Web Development as per my understanding. 
   - 📫 I'm available [Here](https://twitter.com/bibekdhkl)
