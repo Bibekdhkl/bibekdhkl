@@ -13,10 +13,17 @@ Currently, I am an undergraduate student majoring in Computer.<br>
   - 😉 Motto: **Share without expecting nothing**
   
  ## Tools:
-  <code><img height="20" title="C-Programming" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2"></code>
+  <code><img height="20" title="C-Programming" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
   <code><img height="20" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
   <code><img height="20" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <code><img height="20" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+  <code><img height="20" title="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></code>
+  <code><img height="20" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
+  <code><img height="20" title="MySQL" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/320px-MySQL_logo.svg.png"></code>
+  <code><img height="20" title="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"></code>
+  <code><img height="20" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
+  <code><img height="20" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg"></code>
+  
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bibekdhkl.bibekdhkl)
  
